@@ -15,13 +15,13 @@ I have developed some web and mobile applications
 
 I have experience in these technologies:
 
-![](https://img.shields.io/badge/React-green)
-![](https://img.shields.io/badge/Python-yellow)
-![](https://img.shields.io/badge/Angular-red)
-![](https://img.shields.io/badge/ASP.NET-purple)
-![](https://img.shields.io/badge/TypeScript-blue)
-![](https://img.shields.io/badge/React--Native-black)
-![](https://img.shields.io/badge/SQL--Server-white)
+![](https://img.shields.io/badge/React--Native-Crimson?logo=React&logoColor=white)
+![](https://img.shields.io/badge/Python-yellow?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Angular-FF0000?logo=Angular&logoColor=white)
+![](https://img.shields.io/badge/ASP.NET-purple?logo=.NET&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black)
+![](https://img.shields.io/badge/SQL_Server-DCDCDC)
 
 I am creative and I love design
 
